@@ -34,7 +34,7 @@
 
 ### 方式一：直接用打包好的 exe（推荐）
 
-到 [Releases](../../releases) 里下载，有两种形态：
+到 [Releases 页面](https://github.com/Baron01010/EthernetSwitch/releases/latest) 下载，有两种形态：
 
 | 下载包 | 说明 |
 |---|---|
