@@ -49,7 +49,7 @@
 需要 Python 3.8+（`tkinter` 是标准库，Windows 官方安装包自带）。
 
 ```bat
-git clone <your-repo-url>
+git clone https://github.com/Baron01010/EthernetSwitch.git
 cd EthernetSwitch
 run.bat
 ```
