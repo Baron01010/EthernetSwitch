@@ -1,0 +1,8 @@
+# 统一行尾：源码/文档用 LF，Windows 批处理必须 CRLF
+* text=auto eol=lf
+*.bat text eol=crlf
+
+# 二进制文件不做行尾转换
+*.png binary
+*.ico binary
+*.exe binary

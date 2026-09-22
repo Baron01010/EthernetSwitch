@@ -1,0 +1,18 @@
+# 构建产物（`build_exe.bat` / PyInstaller 生成）
+build/
+build_fast/
+dist/
+fast/
+*.spec
+
+# 构建用的独立虚拟环境
+.build-venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 调试 / 临时文件
+_shots/
+*.log
